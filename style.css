@@ -1,0 +1,23 @@
+@import url(https://fonts.googleapis.com/css?family=Didact+Gothic|Comfortaa:400,700&subset=latin,cyrillic);
+
+body {
+    background-color: #21325E;
+    padding: 2%;
+}
+
+a {
+    color:aqua;
+}
+
+h1 {
+    text-align: center;
+}
+
+.cardPage {
+    background-color: #3E497A;
+    border-radius: 20px;
+    padding: 20px;
+    color: #F0F0F0;
+    font-family: 'Comfortaa';
+    font-weight: bold;
+}
