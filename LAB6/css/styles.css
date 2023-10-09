@@ -4,17 +4,21 @@
     color: #fff;
     position: relative;
     padding: 55px 150px 55px 150px;
+    height: 700px;
+    overflow: hidden;
 }
 
 #testimonials{
     text-align: center;
     background-color: #ef8172;
     color: #fff;
+    padding: 5%;
 }
 
 #features{
     text-align: center;
-    padding: 20px;
+    background-color: white;
+    padding: 55px;
 }
 
 #press{
@@ -29,6 +33,7 @@
     padding: 5%;
 
     font-family: 'Ubuntu', sans-serif;
+    
 }
 
 #cta{
@@ -102,9 +107,9 @@ body{
 }
 
 .title-image{
-    width: 60%;
+    width: 40%;
     transform: rotate(25deg);
-
+    z-index: -1;
 }
 
 .download-button{
