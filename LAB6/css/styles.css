@@ -12,11 +12,35 @@
     color: #fff;
 }
 
+#features{
+    text-align: center;
+    padding: 20px;
+}
+
 #press{
     text-align: center;
     padding-bottom: 3%;
 
     background-color:  #ef8172;
+}
+
+#pricing{
+    text-align: center;
+    padding: 5%;
+
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#cta{
+    text-align: center;
+    color: white;
+    background-color: #ff3c68;
+    padding: 5%;
+}
+
+#footer{
+    text-align: center;
+
 }
 
 h1{
@@ -80,6 +104,7 @@ body{
 .title-image{
     width: 60%;
     transform: rotate(25deg);
+
 }
 
 .download-button{
@@ -89,6 +114,10 @@ body{
     margin-bottom: 0%;
 }
 
+.card-text{
+    color: #686868d3;
+}
+
 .btn:hover{
     background-color: #606060;
 }
@@ -96,6 +125,11 @@ body{
 .btn-primary{
     background-color: #686868;
     border: #686868;
+}
+
+.btn-secondary{
+    background-color: white;
+    color: black;
 }
 
 .btn-outline-primary{
